@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\bin\Debug\net6.0\DuplicateElements.exe
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\bin\Debug\net6.0\DuplicateElements.deps.json
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\bin\Debug\net6.0\DuplicateElements.runtimeconfig.json
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\bin\Debug\net6.0\DuplicateElements.dll
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\bin\Debug\net6.0\DuplicateElements.pdb
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.AssemblyInfo.cs
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.dll
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\refint\DuplicateElements.dll
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.pdb
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\DuplicateElements.genruntimeconfig.cache
+C:\Users\USER\source\BL\DuplicateElements\DuplicateElements\obj\Debug\net6.0\ref\DuplicateElements.dll
