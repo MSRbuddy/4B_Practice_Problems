@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\bin\Debug\net6.0\UniqueElements.exe
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\bin\Debug\net6.0\UniqueElements.deps.json
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\bin\Debug\net6.0\UniqueElements.runtimeconfig.json
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\bin\Debug\net6.0\UniqueElements.dll
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\bin\Debug\net6.0\UniqueElements.pdb
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.AssemblyInfo.cs
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.dll
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\refint\UniqueElements.dll
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.pdb
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\UniqueElements.genruntimeconfig.cache
+C:\Users\USER\source\BL\UniqueElements\UniqueElements\obj\Debug\net6.0\ref\UniqueElements.dll
