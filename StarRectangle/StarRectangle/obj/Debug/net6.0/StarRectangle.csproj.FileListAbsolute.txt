@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\bin\Debug\net6.0\StarRectangle.exe
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\bin\Debug\net6.0\StarRectangle.deps.json
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\bin\Debug\net6.0\StarRectangle.runtimeconfig.json
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\bin\Debug\net6.0\StarRectangle.dll
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\bin\Debug\net6.0\StarRectangle.pdb
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.AssemblyInfo.cs
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.dll
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\refint\StarRectangle.dll
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.pdb
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\StarRectangle.genruntimeconfig.cache
+C:\Users\USER\source\BL\StarRectangle\StarRectangle\obj\Debug\net6.0\ref\StarRectangle.dll
