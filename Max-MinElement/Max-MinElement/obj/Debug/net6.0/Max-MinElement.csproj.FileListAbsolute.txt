@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\bin\Debug\net6.0\Max-MinElement.exe
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\bin\Debug\net6.0\Max-MinElement.deps.json
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\bin\Debug\net6.0\Max-MinElement.runtimeconfig.json
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\bin\Debug\net6.0\Max-MinElement.dll
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\bin\Debug\net6.0\Max-MinElement.pdb
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.AssemblyInfo.cs
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.dll
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\refint\Max-MinElement.dll
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.pdb
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\Max-MinElement.genruntimeconfig.cache
+C:\Users\USER\source\BL\Max-MinElement\Max-MinElement\obj\Debug\net6.0\ref\Max-MinElement.dll
