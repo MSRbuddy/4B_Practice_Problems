@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\bin\Debug\net6.0\FrequencyOfElement.exe
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\bin\Debug\net6.0\FrequencyOfElement.deps.json
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\bin\Debug\net6.0\FrequencyOfElement.runtimeconfig.json
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\bin\Debug\net6.0\FrequencyOfElement.dll
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\bin\Debug\net6.0\FrequencyOfElement.pdb
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.AssemblyInfo.cs
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.dll
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\refint\FrequencyOfElement.dll
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.pdb
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\FrequencyOfElement.genruntimeconfig.cache
+C:\Users\USER\source\BL\FrequencyOfElement\FrequencyOfElement\obj\Debug\net6.0\ref\FrequencyOfElement.dll
