@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\bin\Debug\net6.0\StarTriangle.exe
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\bin\Debug\net6.0\StarTriangle.deps.json
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\bin\Debug\net6.0\StarTriangle.runtimeconfig.json
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\bin\Debug\net6.0\StarTriangle.dll
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\bin\Debug\net6.0\StarTriangle.pdb
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.AssemblyInfo.cs
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.dll
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\refint\StarTriangle.dll
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.pdb
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\StarTriangle.genruntimeconfig.cache
+C:\Users\USER\source\BL\StarTriangle\StarTriangle\obj\Debug\net6.0\ref\StarTriangle.dll
